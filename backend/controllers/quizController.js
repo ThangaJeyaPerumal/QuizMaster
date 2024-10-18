@@ -1,4 +1,4 @@
-cconst Quiz = require('../models/Quiz');
+const Quiz = require('../models/Quiz');
 const QuizResult = require('../models/QuizResult');
 const QuizProgress = require('../models/QuizProgress');
 const User = require("../models/User");
